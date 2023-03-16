@@ -1,0 +1,70 @@
+.box {
+    background-color:white;
+    border: solid 2px gray;
+    width: 95%;
+    height: 95%;
+}
+
+
+.profile{
+    height: 25vb;
+    position: relative;
+    top: 12.5vb;
+    border-radius: 50%;
+    margin-left: 2.5vw;
+}
+
+
+.blocks1{
+    background-color: #008c9e;
+    display: flex;
+    padding: 0px;
+    justify-content: space-between; 
+}
+
+.blocks2{
+    background-color: white;
+    display: inline-block;
+    margin-top: 12.5vb;
+    padding: 20px;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    font-size: 2.7vb;
+    
+}
+
+#gear {
+    height: 3vb;
+    width: 3vb;
+    /* margin-top: 10px; */
+    margin-right: 5px;
+}
+
+
+/* p {
+    display: inline-block;
+    text-align: left;
+} */
+
+.edit1{
+    display: flex;
+    align-items: center;
+}
+
+
+#edit{
+    color: blue;
+    text-decoration: underline;
+}
+
+#locationsmb{
+    height: 3.5vb;
+    width: 3vb;
+    /* margin-top: 10px; */
+    margin-right: 5px;
+}
+
+.location{
+    display: flex;
+    align-items: center;
+}
